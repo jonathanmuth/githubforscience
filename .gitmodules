@@ -1,0 +1,9 @@
+[submodule "git2pdf"]
+	path = git2pdf
+	url = git@github.com:Eubel/git2pdf.git
+[submodule "chrome-extension"]
+	path = chrome-extension
+	url = git@github.com:jonathanmuth/githubforscience-chromeextension.git
+[submodule "firefox-addon"]
+	path = firefox-addon
+	url = git@github.com:Xysryc/GitHub-for-Science-Firefox.git
